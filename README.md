@@ -1,0 +1,2 @@
+# slowo
+dictionary strings learning
